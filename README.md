@@ -1,13 +1,11 @@
-### Hi there, I'm Ricardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/ricardo-arias-salazar/">
-  <img align="left" alt="Ricardo Arias | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/rariassa">
-  <img align="left" alt="Ricardo Arias | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+<div id="texts" style="white-space:nowrap;">
+     <h2> Hi there, I'm Ricardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+       <a href="https://www.linkedin.com/in/ricardo-arias-salazar/">  <img align="right" alt="Ricardo Arias | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a></h2>
+</div>
+
+
+
  
  </br>
 
