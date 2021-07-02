@@ -4,6 +4,7 @@
 </a></h2>
 </div>
 
+I am a master's student at [Monash University](https://www.monash.edu) majoring in Data Science. I am a full-stack software developer with three years of experience working as a Software Engineer at eQ Technologic India Pvt. Ltd. My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
 
 
  
