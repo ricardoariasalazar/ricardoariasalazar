@@ -5,7 +5,7 @@
      <a href="mailto:ricardoariasalazar@gmail.com"><img align="right" alt="Ricardo Arias | Gmail" width="30px"src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="email"/></a></h2>
 </div>
 
-I am a master's student at [Monash University](https://www.monash.edu) majoring in Data Science. I am a full-stack software developer with three years of experience working as a Software Engineer at eQ Technologic India Pvt. Ltd. My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+I am a Data Science master's student at [Monash University](https://www.monash.edu). I am a Civil Engineer with two years of experience working with Statistical Models related to Energy Market and Building Costs Estimation. Besides programming, I have an immense interest in soccer.
 
 <h3>Languages and Tools</h3>
 <img align="left" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png" />
