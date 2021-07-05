@@ -16,7 +16,7 @@ I am a Data Science master's student at [Monash University](https://www.monash.e
 </br></br>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoariasalazar&layout=compact)](https://github.com/ricardoariasalazar/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardoariasalazar&repo=github-readme-stats)](https://github.com/ricardoariasalazar/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardoariasalazar&repo=Text-Preprocessing)](https://github.com/ricardoariasalazar/Text-Preprocessing)
 
 
  
