@@ -5,16 +5,23 @@
      <a href="mailto:ricardoariasalazar@gmail.com"><img align="right" alt="Ricardo Arias | Gmail" width="30px"src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="email"/></a></h2>
 </div>
 
-I am a Data Science master's student at [Monash University](https://www.monash.edu). I am a Civil Engineer with two years of experience working with Statistical Models related to Energy Market and Building Costs Estimation. Besides programming, I have an immense interest in soccer.
+📫  Born in Medellín , Colombia <img src="https://img.icons8.com/color/48/000000/colombia-circular.png" width="20"/>                                
+📌  Living in Melbourne, Australia <img src="https://img.icons8.com/color/48/000000/australia-circular.png" width="20"/>                                   
+🎓  Bachelor of Civil Engineering - [Universidad EAFIT](https://www.eafit.edu.co/)                                            
+👨‍💻  Masters of Data Science - [Monash University](https://www.monash.edu)
 
+
+I am a Data Science master's student at [Monash University](https://www.monash.edu), and a Civil Engineer with experience working with Statistical Models related to Energy Market and Building Costs Estimation. 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoariasalazar&layout=compact)](https://github.com/ricardoariasalazar/github-readme-stats)
+ 
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardoariasalazar&repo=Text-Preprocessing)](https://github.com/ricardoariasalazar/Text-Preprocessing) 
+  <!--- 
 <h3>Languages and Tools</h3>
 <img align="left" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png" />
 <img align="left" width="30px" src="https://icons.iconarchive.com/icons/blackvariant/button-ui-requests-5/512/RStudio-icon.png" />
 <img align="left" width="30px" src="https://img.icons8.com/color/48/000000/latex.png" />
 <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
+--->
 
-</br></br>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoariasalazar&layout=compact)](https://github.com/ricardoariasalazar/github-readme-stats)
- 
- <!--- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardoariasalazar&repo=Text-Preprocessing)](https://github.com/ricardoariasalazar/Text-Preprocessing) --->
