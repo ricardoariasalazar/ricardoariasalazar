@@ -10,12 +10,12 @@
 🎓  Bachelor of Civil Engineering - [Universidad EAFIT](https://www.eafit.edu.co/)                                            
 👨‍💻  Masters of Data Science - [Monash University](https://www.monash.edu)
 
+</br>
 
-I am a Data Science master's student at [Monash University](https://www.monash.edu), and a Civil Engineer with experience working with Statistical Models related to Energy Market and Building Costs Estimation. 
- 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoariasalazar&layout=compact)](https://github.com/ricardoariasalazar/github-readme-stats)
- 
- 
+
+
+
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardoariasalazar&repo=Text-Preprocessing)](https://github.com/ricardoariasalazar/Text-Preprocessing) 
   <!--- 
 <h3>Languages and Tools</h3>
@@ -25,3 +25,4 @@ I am a Data Science master's student at [Monash University](https://www.monash.e
 <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
 --->
 
+ <!---![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoariasalazar&include_all_commits=true) --->
