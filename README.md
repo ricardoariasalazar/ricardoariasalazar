@@ -2,7 +2,7 @@
      <h2> Hi there, I'm Ricardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
        <a href="https://www.linkedin.com/in/ricardo-arias-salazar/">  
             <img align="right" alt="Ricardo Arias | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>         
-     <a href="mailto:ricardoariasalazar@gmail.com"><img align="right" alt="Ricardo Arias | Gmail" width="30px"src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="email"/></a></h2>
+     <a href="mailto:rari0002@student.monash.edu"><img align="right" alt="Ricardo Arias | Gmail" width="30px"src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="email"/></a></h2>
 </div>
 
 📫  Born in Medellín , Colombia <img src="https://img.icons8.com/color/48/000000/colombia-circular.png" width="20"/>                                
