@@ -12,11 +12,7 @@
 
 </br>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoariasalazar&layout=compact)](https://github.com/ricardoariasalazar/github-readme-stats)
-
-
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardoariasalazar&repo=Text-Preprocessing)](https://github.com/ricardoariasalazar/Text-Preprocessing) 
+ <!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardoariasalazar&repo=Text-Preprocessing)](https://github.com/ricardoariasalazar/Text-Preprocessing) --->
   <!--- 
 <h3>Languages and Tools</h3>
 <img align="left" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png" />
