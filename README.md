@@ -9,6 +9,7 @@
 📌  Living in Melbourne, Australia <img src="https://img.icons8.com/color/48/000000/australia-circular.png" width="20"/>                                   
 🎓  Bachelor of Civil Engineering - [Universidad EAFIT](https://www.eafit.edu.co/)                                            
 👨‍💻  Masters of Data Science - [Monash University](https://www.monash.edu)
+👨‍💻  Data Engineer - [Synogize](https://www.synogize.io)
 
 </br>
 
